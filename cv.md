@@ -13,7 +13,7 @@
 No professional experience in programming yet.<br/>
 
 ### *Education:*  
-* Silesian Technical University
+* Silesian Technical University, Faculty of Material Engeneering
 * Eindhoven University of Technology <br/>
 
 *English level* ~B2, thesis written in English<br/>
