@@ -1,4 +1,5 @@
 **Curriculum vitae**<br/>
+
 # Barbara Kure<br/>
 
 ### *Contact:* 
