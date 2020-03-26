@@ -14,4 +14,4 @@ No professional experience in programming yet.<br/>
 * Silesian Technical University
 * Eindhoven University of Technology <br/>
 
-*English level* ~B2, thesis written in English.<br/>
+*English level* ~B2, thesis written in English<br/>
