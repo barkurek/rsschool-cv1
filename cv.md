@@ -1,7 +1,9 @@
 **Curriculum vitae**<br/>
 # Barbara Kure<br/>
 
-### *Contact:* barkurek@gmail.com +48 600 000 000 <br/>
+### *Contact:* 
+* barkurek@gmail.com 
+* +48 600 000 000 <br/>
 
 ### *Skills:* basis of:
 * PHP
